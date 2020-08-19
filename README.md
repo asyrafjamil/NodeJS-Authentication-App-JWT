@@ -34,5 +34,9 @@ Click the link in the email to reset your password.
 Reset the password then attempt to login with your old password. This should fail. Login with your new password
 ![Reset](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Change%20Password.png "Reset")
 
+## Reference 
 
+1. https://dev.to/dipakkr/implementing-authentication-in-nodejs-with-express-and-jwt-codelab-1-j5i
+2. https://blog.usejournal.com/easiest-backend-authentication-using-express-mongodb-and-postman-86997c945f18
+3. https://www.youtube.com/watch?v=kfw61IxDgW8&t=809s
 

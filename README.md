@@ -13,9 +13,6 @@ Create a POST request to /api/auth/login
 
 **Make sure to enter a valid email address so you can receive the verification email.**<br/>
 
-
-https://mesannodejsapiwithverification.herokuapp.com/api/user/[user_id]
-
 **Login and Recover Password** <br/>
 Create a POST request to /api/auth/recover to recover your password. An email will be sent to you.
 

@@ -7,6 +7,10 @@ Node.js Authentication and CRUD API with Email Verification, Password Reset Usin
 3. Enter "yarn init" and start the server by entering "yarn start"
 4. You're good to go!
 
+## Edit these codes with your own value
+1. Go to "index.js" under "utils" folder and go to line 12 and 13. Insert your Gmail credentials there.
+2. Configure file '.env'
+
 ## Testing
 Use <a href="https://www.getpostman.com" target="_blank">Postman</a> to test.<br/>
 Postman Environment is provided at the repository. 

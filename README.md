@@ -23,6 +23,7 @@ Create a POST request to /api/auth/login
 
 **Login and Recover Password** <br/>
 Create a POST request to /api/auth/recover to recover your password. An email will be sent to you.
+![Recover](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Reset%20Password.png "Reset")
 
 **Reset Password and Login with new Password** <br/>
 Click the link in the email to reset your password. 

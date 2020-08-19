@@ -13,7 +13,11 @@ Postman Environment is provided at the repository.
 
 **Register and Login** <br/>
 Create a POST request to /api/auth/register <br/>
+![Register](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Register%20User.png "Register")
+
+
 Create a POST request to /api/auth/login
+![Login](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Login%20User.png "Login")
 
 **Make sure to enter a valid email address so you can receive the verification email.**<br/>
 

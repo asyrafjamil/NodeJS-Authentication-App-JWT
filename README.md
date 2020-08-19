@@ -28,6 +28,7 @@ Create a POST request to /api/auth/recover to recover your password. An email wi
 **Reset Password and Login with new Password** <br/>
 Click the link in the email to reset your password. 
 Reset the password then attempt to login with your old password. This should fail. Login with your new password
+![Reset](https://github.com/asyrafjamil/NodeJS-Authentication-App-JWT/blob/master/Change%20Password.png "Reset")
 
 
 

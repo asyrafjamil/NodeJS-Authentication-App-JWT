@@ -4,7 +4,8 @@ Node.js Authentication and CRUD API with Email Verification, Password Reset Usin
 ## Features
 1. Register User
 2. Login User
-3. Reset Password
+3. User Verification
+4. Reset Password
 
 ## Requirements
 1. Get MongoDB and connect to the database.

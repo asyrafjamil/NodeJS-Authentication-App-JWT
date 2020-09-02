@@ -1,6 +1,11 @@
 # Node.js Authentication and CRUD API
 Node.js Authentication and CRUD API with Email Verification, Password Reset Using JWT, Passport.js and Nodemailer
 
+## Features
+1. Register User
+2. Login User
+3. Reset Password
+
 ## Requirements
 1. Get MongoDB and connect to the database.
 2. Install all the packages by entering command "npm install"
